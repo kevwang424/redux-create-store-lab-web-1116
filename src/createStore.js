@@ -1,6 +1,3 @@
-
-
-// solution
 export default function createStore(reducer){
   let state;
 
